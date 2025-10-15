@@ -65,28 +65,28 @@
 
 ```kotlin
 Order(
-    id = 4,
-    items = "Вода минеральная, Сок апельсиновый",
-    delivery_address = "Общежитие 3, комната 205",
-    status = "Новый"
+            id = 4,
+   items = "Вода минеральная, Сок апельсиновый",
+   delivery_address = "Общежитие 3, комната 205",
+   status = "Новый"
 ),
 Order(
-    id = 5,
-    items = "Шоколад Milka, M&M's",
-    delivery_address = "Учебный корпус 1, ауд. 405",
-    status = "Новый"
+   id = 5,
+   items = "Шоколад Milka, M&M's",
+   delivery_address = "Учебный корпус 1, ауд. 405",
+   status = "Новый"
 ),
 Order(
-    id = 6,
-    items = "Бургер, Картофель фри, Кола",
-    delivery_address = "Библиотека, 2 этаж",
-    status = "Новый"
+   id = 6,
+   items = "Бургер, Картофель фри, Кола",
+   delivery_address = "Библиотека, 2 этаж",
+   status = "Новый"
 ),
 Order(
-    id = 7,
-    items = "Кофе Латте, Круассан",
-    delivery_address = "Спортивный комплекс, раздевалка",
-    status = "Новый"
+   id = 7,
+   items = "Кофе Латте, Круассан",
+   delivery_address = "Спортивный комплекс, раздевалка",
+   status = "Новый"
 )
 ```
 
